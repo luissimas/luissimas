@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luissimas&theme=nord&show_icons=true&exclude_repo=vault)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissimas&show_icons=true&hide_title=true&theme=material-palenight&layout=compact&hide_border=true&border_radius=30&langs_count=10/>
+  </a>
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luissimas&theme=nord&layout=compact&exclude_repo=vault)](https://github.com/anuraghazra/github-readme-stats)
