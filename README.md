@@ -22,6 +22,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissimas&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15/>
   </a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luissimas&theme=nord&layout=compact&exclude_repo=vault)](https://github.com/anuraghazra/github-readme-stats)
