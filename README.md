@@ -1,27 +1,13 @@
+Hey there!
 
-<!--
-**luissimas/luissimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in building back-end systems. I also like to mess around with text editors and developer tools in general.
 
-Here are some ideas to get you started:
+## What I'm currently doing at work
+- REST APIs with Typescript and Python
+- Asynchronous processing with RabbitMQ queues
+- Telecom platforms based on SIP, SMPP and Diameter protocols
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissimas&show_icons=true&hide_title=true&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&exclude_repo=HardEasy,vault"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/?username=luissimas&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</p>
+## Learning and side projects
+- Distributed systems using (mostly using Elixir)
+- Microservices and CLI tools (mostly using Go)
+- Cloud infrastructure (mostly using GCP) 
