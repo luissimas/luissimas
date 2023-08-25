@@ -8,6 +8,6 @@ I'm a software developer interested in building back-end systems. I also like to
 - Telecom platforms based on SIP, SMPP and Diameter protocols
 
 ## Learning and side projects
-- Distributed systems using (mostly using Elixir)
+- Distributed systems (mostly using Elixir)
 - Microservices and CLI tools (mostly using Go)
 - Cloud infrastructure (mostly using GCP) 
