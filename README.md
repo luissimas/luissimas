@@ -1,5 +1,30 @@
-Hey there!
+### Hi there 👋
 
-I'm a software developer interested in building back-end systems and operating infrastructure. I also like to mess around with text editors and developer tools in general.
+I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end systems and infrastructure. I also like to mess around with text editors and developer tools in general.
 
-I've been doing a lot in my [homelab](https://github.com/luissimas/homelab) lately, mostly for pleasure and for learning more about managing Kubernetes clusters. If you want to know more about what I've done in the past, check out my [personal website](https://luissimas.github.io/about/).
+#### What I'm currently working on
+
+- [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (today)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (today)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - Why would you use Kubernetes in a homelab? (today)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (3 days ago)
+- [luissimas/commerce-kata](https://github.com/luissimas/commerce-kata) - An e-commerce system developed as an architectural Kata (2 weeks ago)
+
+#### Repositories I've created recently
+
+- [luissimas/commerce-kata](https://github.com/luissimas/commerce-kata) - An e-commerce system developed as an architectural Kata
+- [luissimas/sample-zettelkasten](https://github.com/luissimas/sample-zettelkasten) - A sample zettelkasten used for testing
+- [luissimas/shortin](https://github.com/luissimas/shortin) - 
+- [luissimas/linstor-deploy](https://github.com/luissimas/linstor-deploy) - Easy deployments of Linstor clusters
+- [luissimas/zetty](https://github.com/luissimas/zetty) - A command line tool to manage notes in a Zettelkasten
+
+#### Latest releases I've contributed to
+
+- [lxc/incus](https://github.com/lxc/incus) ([v6.17.0](https://github.com/lxc/incus/releases/tag/v6.17.0), 1 day ago) - Powerful system container and virtual machine manager 
+- [juju/python-libjuju](https://github.com/juju/python-libjuju) ([3.6.1.3](https://github.com/juju/python-libjuju/releases/tag/3.6.1.3), 2 months ago) - Python library for the Juju API
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.1](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.1), 2 months ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
+
+#### My recent blog posts
+
+- [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
+- [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
