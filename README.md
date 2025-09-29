@@ -4,10 +4,10 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (1 day ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 day ago)
-- [luissimas/homelab](https://github.com/luissimas/homelab) - Why would you use Kubernetes in a homelab? (1 day ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (4 days ago)
+- [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (2 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 days ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - Why would you use Kubernetes in a homelab? (2 days ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (5 days ago)
 - [luissimas/commerce-kata](https://github.com/luissimas/commerce-kata) - An e-commerce system developed as an architectural Kata (2 weeks ago)
 
 #### Repositories I've created recently
@@ -20,7 +20,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### Latest releases I've contributed to
 
-- [lxc/incus](https://github.com/lxc/incus) ([v6.17.0](https://github.com/lxc/incus/releases/tag/v6.17.0), 2 days ago) - Powerful system container and virtual machine manager 
+- [lxc/incus](https://github.com/lxc/incus) ([v6.17.0](https://github.com/lxc/incus/releases/tag/v6.17.0), 3 days ago) - Powerful system container and virtual machine manager 
 - [juju/python-libjuju](https://github.com/juju/python-libjuju) ([3.6.1.3](https://github.com/juju/python-libjuju/releases/tag/3.6.1.3), 2 months ago) - Python library for the Juju API
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.1](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.1), 2 months ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
