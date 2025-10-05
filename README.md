@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 day ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (3 days ago)
-- [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (5 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 days ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (4 days ago)
+- [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (6 days ago)
 - [luissimas/homelab](https://github.com/luissimas/homelab) - Why would you use Kubernetes in a homelab? (1 week ago)
 - [luissimas/commerce-kata](https://github.com/luissimas/commerce-kata) - An e-commerce system developed as an architectural Kata (3 weeks ago)
 
@@ -26,6 +26,6 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (1 day ago)
+- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (2 days ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
 - [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
