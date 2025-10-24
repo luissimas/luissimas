@@ -4,8 +4,8 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (4 days ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (4 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (5 days ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (5 days ago)
 - [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (1 week ago)
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (1 week ago)
 - [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (3 weeks ago)
@@ -21,11 +21,11 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 #### Latest releases I've contributed to
 
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 1 week ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
-- [lxc/incus](https://github.com/lxc/incus) ([v6.17.0](https://github.com/lxc/incus/releases/tag/v6.17.0), 3 weeks ago) - Powerful system container and virtual machine manager 
+- [lxc/incus](https://github.com/lxc/incus) ([v6.17.0](https://github.com/lxc/incus/releases/tag/v6.17.0), 4 weeks ago) - Powerful system container and virtual machine manager 
 - [juju/python-libjuju](https://github.com/juju/python-libjuju) ([3.6.1.3](https://github.com/juju/python-libjuju/releases/tag/3.6.1.3), 3 months ago) - Python library for the Juju API
 
 #### My recent blog posts
 
-- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (2 weeks ago)
+- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (3 weeks ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
 - [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
