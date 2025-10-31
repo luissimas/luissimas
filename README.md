@@ -26,6 +26,6 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (3 weeks ago)
+- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (4 weeks ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
 - [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
