@@ -4,10 +4,10 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 day ago)
-- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (2 days ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (3 days ago)
-- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (2 weeks ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (2 days ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (3 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (4 days ago)
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (3 weeks ago)
 - [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (1 month ago)
 
 #### Repositories I've created recently
@@ -20,13 +20,13 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### Latest releases I've contributed to
 
-- [lxc/incus](https://github.com/lxc/incus) ([v6.18.0](https://github.com/lxc/incus/releases/tag/v6.18.0), 4 days ago) - Powerful system container and virtual machine manager 
-- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 2 weeks ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
+- [lxc/incus](https://github.com/lxc/incus) ([v6.18.0](https://github.com/lxc/incus/releases/tag/v6.18.0), 5 days ago) - Powerful system container and virtual machine manager 
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 3 weeks ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 - [juju/python-libjuju](https://github.com/juju/python-libjuju) ([3.6.1.3](https://github.com/juju/python-libjuju/releases/tag/3.6.1.3), 3 months ago) - Python library for the Juju API
 
 #### My recent blog posts
 
-- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (3 days ago)
+- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (4 days ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (1 month ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
 - [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
