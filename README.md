@@ -4,10 +4,10 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (2 days ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (3 days ago)
 - [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 week ago)
 - [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 week ago)
-- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (3 weeks ago)
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (4 weeks ago)
 - [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (1 month ago)
 
 #### Repositories I've created recently
@@ -21,8 +21,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 #### Latest releases I've contributed to
 
 - [lxc/incus](https://github.com/lxc/incus) ([v6.18.0](https://github.com/lxc/incus/releases/tag/v6.18.0), 1 week ago) - Powerful system container and virtual machine manager 
-- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 3 weeks ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
-- [juju/python-libjuju](https://github.com/juju/python-libjuju) ([3.6.1.3](https://github.com/juju/python-libjuju/releases/tag/3.6.1.3), 4 months ago) - Python library for the Juju API
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 4 weeks ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
 #### My recent blog posts
 
