@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (4 days ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (5 days ago)
 - [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 week ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 weeks ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (3 weeks ago)
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana. (1 month ago)
 - [cloudlabs-ufscar/incus-sidecar](https://github.com/cloudlabs-ufscar/incus-sidecar) - Auxiliary services for Incus deployments defined as IaC (1 month ago)
 
@@ -25,7 +25,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (2 weeks ago)
+- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (3 weeks ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (1 month ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
 - [Wildcard SSL certificates in the homelab](https://luissimas.github.io/blog/homelab-ssl/) (2 years ago)
