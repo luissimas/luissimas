@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (today)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 day ago)
-- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu (1 day ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 day ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (2 days ago)
+- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu (2 days ago)
 
 #### Latest releases I've contributed to
 
