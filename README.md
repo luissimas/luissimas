@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (5 days ago)
-- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu (6 days ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (6 days ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (1 day ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 day ago)
+- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) - Incus provider for Terraform/OpenTofu (1 week ago)
 
 #### Latest releases I've contributed to
 
@@ -16,6 +16,6 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (3 weeks ago)
+- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (4 weeks ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (1 month ago)
 - [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
