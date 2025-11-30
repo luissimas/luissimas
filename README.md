@@ -10,12 +10,12 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### Latest releases I've contributed to
 
-- [lxc/incus](https://github.com/lxc/incus) ([v6.18.0](https://github.com/lxc/incus/releases/tag/v6.18.0), 4 weeks ago) - Powerful system container and virtual machine manager 
+- [lxc/incus](https://github.com/lxc/incus) ([v6.19.1](https://github.com/lxc/incus/releases/tag/v6.19.1), 1 day ago) - Powerful system container and virtual machine manager 
 - [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.0.0](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.0.0), 1 month ago) - Incus provider for Terraform/OpenTofu
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 1 month ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
 #### My recent blog posts
 
+- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (1 day ago)
 - [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (4 weeks ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (1 month ago)
-- [Shiny Object Syndrome](https://luissimas.github.io/blog/shiny-object-syndrome/) (1 year ago)
