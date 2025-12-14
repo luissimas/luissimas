@@ -12,7 +12,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 - [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.0.1](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.0.1), 1 week ago) - Incus provider for Terraform/OpenTofu
 - [lxc/incus](https://github.com/lxc/incus) ([v6.19.1](https://github.com/lxc/incus/releases/tag/v6.19.1), 2 weeks ago) - Powerful system container and virtual machine manager 
-- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 1 month ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
+- [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 2 months ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
 #### My recent blog posts
 
