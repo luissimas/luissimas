@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
+- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (5 days ago)
 - [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 weeks ago)
 - [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (2 weeks ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (3 weeks ago)
 
 #### Latest releases I've contributed to
 
