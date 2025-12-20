@@ -6,11 +6,11 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (1 week ago)
 - [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 weeks ago)
-- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (2 weeks ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (3 weeks ago)
 
 #### Latest releases I've contributed to
 
-- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.0.2](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.0.2), 2 days ago) - Incus provider for Terraform/OpenTofu
+- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.0.2](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.0.2), 3 days ago) - Incus provider for Terraform/OpenTofu
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 2 months ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
 #### My recent blog posts
