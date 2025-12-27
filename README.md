@@ -6,7 +6,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (2 weeks ago)
 - [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (3 weeks ago)
-- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (3 weeks ago)
+- [luissimas/homelab](https://github.com/luissimas/homelab) - My Homelab, managed by FluxCD (4 weeks ago)
 
 #### Latest releases I've contributed to
 
