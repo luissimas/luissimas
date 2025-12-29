@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 day ago)
-- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (2 weeks ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (3 weeks ago)
+- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (1 day ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (2 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (4 weeks ago)
 
 #### Latest releases I've contributed to
 
@@ -15,6 +15,6 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (3 weeks ago)
+- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (4 weeks ago)
 - [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (1 month ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (2 months ago)
