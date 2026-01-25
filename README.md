@@ -4,7 +4,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (2 weeks ago)
+- [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus (3 weeks ago)
 - [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (4 weeks ago)
 - [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 month ago)
 
