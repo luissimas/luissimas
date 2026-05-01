@@ -4,7 +4,7 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 day ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (2 days ago)
 - [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 week ago)
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (2 months ago)
 
@@ -18,4 +18,4 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 - [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (5 months ago)
 - [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (6 months ago)
-- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (6 months ago)
+- [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (7 months ago)
