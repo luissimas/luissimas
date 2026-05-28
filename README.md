@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 day ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (5 days ago)
-- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (6 days ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (2 days ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (6 days ago)
+- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 week ago)
 
 #### Latest releases I've contributed to
 
