@@ -6,12 +6,12 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 - [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 week ago)
 - [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 week ago)
-- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (1 week ago)
+- [luissimas/luissimas.github.io](https://github.com/luissimas/luissimas.github.io) - My personal website. (2 weeks ago)
 
 #### Latest releases I've contributed to
 
-- [lxc/incus](https://github.com/lxc/incus) ([v7.1.0](https://github.com/lxc/incus/releases/tag/v7.1.0), 6 days ago) - Powerful system container and virtual machine manager 
-- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.1.0](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.1.0), 3 weeks ago) - Incus provider for Terraform/OpenTofu
+- [lxc/incus](https://github.com/lxc/incus) ([v7.1.0](https://github.com/lxc/incus/releases/tag/v7.1.0), 1 week ago) - Powerful system container and virtual machine manager 
+- [lxc/terraform-provider-incus](https://github.com/lxc/terraform-provider-incus) ([v1.1.0](https://github.com/lxc/terraform-provider-incus/releases/tag/v1.1.0), 4 weeks ago) - Incus provider for Terraform/OpenTofu
 - [luissimas/zettelkasten-exporter](https://github.com/luissimas/zettelkasten-exporter) ([v0.5.2](https://github.com/luissimas/zettelkasten-exporter/releases/tag/v0.5.2), 7 months ago) - An agent that collects metrics from an zettelkasten and lets you visualize them in Grafana.
 
 #### My recent blog posts
