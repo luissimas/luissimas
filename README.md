@@ -5,11 +5,11 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 #### What I'm currently working on
 
 - [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 day ago)
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (5 days ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (6 days ago)
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (3 weeks ago)
 
 #### My recent blog posts
 
-- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (7 months ago)
-- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (8 months ago)
+- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (8 months ago)
+- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (9 months ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (9 months ago)
