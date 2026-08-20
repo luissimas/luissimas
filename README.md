@@ -4,8 +4,8 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (3 days ago)
-- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 week ago)
+- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 day ago)
+- [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (4 days ago)
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux (1 month ago)
 
 #### My recent blog posts
