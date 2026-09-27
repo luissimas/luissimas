@@ -10,6 +10,6 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### My recent blog posts
 
-- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (9 months ago)
-- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (10 months ago)
+- [Migrating Kubernetes clusters with Velero and Flux](https://luissimas.github.io/blog/kubernetes-backups-velero/) (10 months ago)
+- [2 Years of Homelabbing](https://luissimas.github.io/blog/2-years-of-homelab/) (11 months ago)
 - [Graceful shutdown in Go](https://luissimas.github.io/blog/graceful-shutdown-go/) (11 months ago)
