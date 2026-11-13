@@ -4,9 +4,9 @@ I'm [Luís](https://luissimas.github.io). I mostly build and operate back-end sy
 
 #### What I'm currently working on
 
-- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (2 days ago)
+- [opensciencegrid/osg-gfactory](https://github.com/opensciencegrid/osg-gfactory) -  (1 day ago)
 - [luissimas/dotfiles](https://github.com/luissimas/dotfiles) - All my dotfiles (1 week ago)
-- [glideinWMS/glideinwms](https://github.com/glideinWMS/glideinwms) - The glideinWMS Project (1 week ago)
+- [glideinWMS/glideinwms](https://github.com/glideinWMS/glideinwms) - The glideinWMS Project (2 weeks ago)
 
 #### My recent blog posts
 
